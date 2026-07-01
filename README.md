@@ -1,6 +1,6 @@
 # Diabetes-prediction
 
-🌐 **Live Demo**: (배포 후 링크 추가)
+🌐 **Live Demo**: https://diabetes-prediction-bridy.streamlit.app/
 
 # 🩺 당뇨병 위험도 예측 시스템
 
